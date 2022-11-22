@@ -3,3 +3,21 @@
 * *git branch branch_name* - команда, создающая ветку с именем *branch_name*
 ## branch merging
 ## conflicts
+
+wewe
+
+w
+e
+w
+e
+w
+
+
+
+
+wewe
+
+w
+ew
+e
+w
